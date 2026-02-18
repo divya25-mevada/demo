@@ -1,3 +1,8 @@
 hello index.txt
 changes from remote
+<<<<<<< HEAD
 changes from localgit 
+=======
+changes from local
+mirenbhai
+>>>>>>> 1c8ad40cba4ad7d5b7b47f406f6124b2b4c07b64
