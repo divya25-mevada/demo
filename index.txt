@@ -1,3 +1,3 @@
 hello index.txt
 changes from remote
-changes from local
+changes from localgit 
